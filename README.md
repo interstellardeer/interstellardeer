@@ -7,7 +7,7 @@ I'm a 16 y/o Frontend Developer based in Indonesia, I also write some answer on 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Javascript, Tailwind CSS, React.js, and Next.js
 - 😄 Pronouns: He/him
-- 
+
 
 ## Skills 🚀
 
@@ -22,6 +22,8 @@ I'm a 16 y/o Frontend Developer based in Indonesia, I also write some answer on 
 
 - [Github](https://github.com/interstellardeer)
 - [Instagram](https://instagram.com/arsya_prn)
+- [LinkedIn](https://www.linkedin.com/in/arsya-permana-b8a0651b7) 
+
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
