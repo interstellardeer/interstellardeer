@@ -4,8 +4,8 @@
 
 I'm a 17 y/o Frontend Developer based in Indonesia, I also write some answer on quora sometimes and I love history and reading about it.
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Javascript, Tailwind CSS, React.js, and Next.js
+- 🔭 I’m currently working on Mobile Development
+- 🌱 I’m currently learning Flutter and Firebase
 - 😄 Pronouns: He/him
 
 
