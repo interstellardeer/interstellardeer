@@ -2,7 +2,7 @@
 
 ![Github Profile](https://user-images.githubusercontent.com/68625849/162556628-35ecbd14-fe5e-4e97-bb65-ba362feac5db.png)
 
-I'm a 17 y/o Frontend Developer based in Indonesia, I also write some answer on quora sometimes and I love history and reading about it.
+I'm a 18 y/o Software developer student in Indonesia.
 
 - 🔭 I’m currently working on Mobile Development
 - 🌱 I’m currently learning Flutter and Firebase
